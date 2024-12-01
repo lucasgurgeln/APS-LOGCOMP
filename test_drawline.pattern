@@ -1,0 +1,7 @@
+setup {
+  frameSize = 20;
+  threadColor = "red";
+};
+
+drawLine(0, 0, 5, 5);
+drawLine(10, 10, 15, 15);

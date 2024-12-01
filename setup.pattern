@@ -1,0 +1,4 @@
+setup {
+  frameSize = 10;
+  threadColor = "green";
+};
