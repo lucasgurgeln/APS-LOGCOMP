@@ -153,4 +153,9 @@ Configuração inicial: frameSize=30, threadColor=green
 Desenhando linha de (0, 0) para (15, 15)
 Mudando cor para blue
 ```
+---
+### Vídeo de Apresentação da PatternScript
 
+Assista ao vídeo que explica a **PatternScript**, abordando suas funcionalidades, exemplos de uso e as principais alterações realizadas no compilador para suportar a linguagem:
+
+[Assista no YouTube](https://youtu.be/oXA6-5m-twg)
