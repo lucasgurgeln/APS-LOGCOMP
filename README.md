@@ -158,4 +158,4 @@ Mudando cor para blue
 
 Assista ao vídeo que explica a **PatternScript**, abordando suas funcionalidades, exemplos de uso e as principais alterações realizadas no compilador para suportar a linguagem:
 
-[Assista no YouTube](https://youtu.be/oXA6-5m-twg)
+[Assista no YouTube](https://youtu.be/sy-0gqu81Dw)
